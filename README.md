@@ -11,14 +11,14 @@ It analyzes datasets and produces suitable visualizations for better data unders
 - Data analysis and visualization
 - Python-based implementation
 
-- ## Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 - Offline LLMs
 
-- How to Run-
+How to Run-
 - 1. Clone the Repository
   2. Navigate to Project Folder
   3. Create Virtual Environment
