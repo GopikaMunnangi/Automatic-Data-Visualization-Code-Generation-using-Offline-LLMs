@@ -19,9 +19,9 @@ It analyzes datasets and produces suitable visualizations for better data unders
 - Offline LLMs
 
 How to Run-
-- 1. Clone the Repository
-  2. Navigate to Project Folder
-  3. Create Virtual Environment
-  4. Activate Virtual Environment
-  5. Install Required Libraries
-  6. Run the Project
+1. Clone the Repository
+2. Navigate to Project Folder
+3. Create Virtual Environment
+4. Activate Virtual Environment
+5. Install Required Libraries
+6. Run the Project
